@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 I always been enthusiast about technology and *IT*, since I was a child. But my
-immersion into *Computer Science* began when I started to explore the beautiful world
-of *FLOSS* and *GNU/Linux*.
+immersion into *Computer Science* began when I entered the beautiful realm of
+*FLOSS* and *GNU/Linux*.
 
 Then I decided to join the *Applied Computer Science* course at *University of
 Urbino*, and I graduated in 2015, with a
@@ -25,5 +25,5 @@ role as *Odoo developer* and other roles when I managed development and deploy o
 web applications (mainly based on *Django Web Framework*), using *Ansible* as
 Configuration Management tool.
 
-I'm planning to move to London at the end of 2016, to find new exciting
-experencies. I'm also looking for a job there, so feel free to contact me!
+I'm planning to move to London at the end of 2016, and I'm looking for a
+job there, so please contact me if you have an open position!
