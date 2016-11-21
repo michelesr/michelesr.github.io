@@ -3,6 +3,9 @@ DR := docker run -it --rm -w /code -v $$PWD:/code:rw jekyll/jekyll
 build:
 	${DR} jekyll build
 
+watch:
+	${DR} jekyll build --watch
+
 serve:
 	docker run --name jekyll_serve -d -p 127.0.0.1:4000:4000 -w /code -v $$PWD:/code:rw jekyll/jekyll jekyll serve
 
