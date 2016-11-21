@@ -15,7 +15,8 @@ development of application in container based environments.
 
 After the graduation, I had the opportunity to work for the *University of Urbino*
 as *DevOps Engineer* in the [*SmartRoadSense*](http://smartroadsense.it/blog/en)
-project, when I assisted (together with my colleague *Antonio Esposito*) to the
+project, when I assisted (together with my colleague [*Antonio
+Esposito*](https://linkedin.com/in/kobe25)) to the
 migration of the application from a legacy to a container based environment and
 then to an instance of *OpenShift Origin* that we managed to install in a private
 *Atomic CentOS* cluster.
