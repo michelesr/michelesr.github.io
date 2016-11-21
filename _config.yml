@@ -23,6 +23,7 @@ url: "https://michelesr.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  michelesr
 linkedin_username: michelesr
+full_name: Michele Sorcinelli
 
 # Build settings
 markdown: kramdown
