@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Michele Sorcinelli Blog
 email: michele.sorcinelli@gmail.com
-description: ''
-#description: >
-#My personal blog
+description: A blog from a DevOps and Python enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michelesr.github.io" # the base hostname & protocol for your site
+author: Michele Sorcinelli
 #twitter_username: jekyllrb
 github_username:  michelesr
 linkedin_username: michelesr
@@ -29,3 +28,13 @@ full_name: Michele Sorcinelli
 markdown: kramdown
 theme: minima
 encoding: utf-8
+
+# Gems
+gems:
+  - jekyll-seo-tag
+
+social:
+  name: Michele Sorcinelli
+  links:
+    - https://github.com/michelesr/
+    - https://linkedin.com/in/michelesr
