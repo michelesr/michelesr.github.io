@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I always been enthusiast about technology and *IT*, since I was a child. But my
+I've always been enthusiast by *Information Technology*, since I was a child. But my
 immersion into *Computer Science* began when I entered the beautiful realm of
 *FLOSS* and *GNU/Linux*.
 
