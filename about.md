@@ -13,13 +13,14 @@ Urbino*, and I graduated in 2015, with a
 [thesis](https://michelesr.github.io/thesis/dist/thesis.pdf) regarding the
 development of application in container based environments.
 
-After the graduation, I had the opportunity to work for the *University of Urbino*
-as *DevOps Engineer* in the [*SmartRoadSense*](http://smartroadsense.it/blog/en)
-project, when I assisted (together with my colleague [*Antonio
-Esposito*](https://linkedin.com/in/kobe25)) to the
-migration of the application from a legacy to a container based environment and
-then to an instance of *OpenShift Origin* that we managed to install in a private
-*Atomic CentOS* cluster.
+After the graduation, I had the opportunity to work for the *University of
+Urbino* as *DevOps Engineer* in the
+[*SmartRoadSense*](http://smartroadsense.it/blog/en) project, when I assisted
+(together with my colleague [*Antonio
+Esposito*](https://linkedin.com/in/kobe25)) to the migration of the application
+from a legacy to a container based environment and then to its deploy on top of
+an *OpenShift Origin* instance, that we managed to install in a private *Atomic
+CentOS* cluster.
 
 During 2016 I also been engaged in other freelance collaborations, including a
 role as *Odoo developer* and other roles when I managed development and deploy of
