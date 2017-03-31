@@ -27,5 +27,4 @@ role as *Odoo developer* and other roles when I managed development and deploy o
 web applications (mainly based on *Django Web Framework*), using *Ansible* as
 Configuration Management tool.
 
-I'm planning to move to London at the end of 2016, and I'm looking for a
-job there, so please contact me if you have an open position!
+Currently I'm working as DevOps Engineer at Citizens Advice in London.
