@@ -66,6 +66,12 @@ formatting the output in the proper way) from the json text, `oathtool` (from
 [oath-toolkit](https://gitlab.com/oath-toolkit/oath-toolkit)) is used to
 generate the code, and `cin` is an alias to something that can read from
 standard input and write on the clipboard (for e.g. `xclip` for Xorg or
-`pbcoby` for OS X). The tools can be easily installed using a package manager.
+`pbcopy` for OS X). The tools can be easily installed using a package manager.
 
 After running the above command you can paste the code into the browser and enjoy your login!
+
+Edit: I've forgotten to mention that is approach can be personalized to your
+needs, for example by using a different format for the input file or a
+different tool to extract encrypt/decrypt the data. The only important thing is
+that the `oathtool` command needs the secret key as argument in order to
+generate the correct one time password.
