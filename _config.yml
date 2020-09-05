@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Michele Sorcinelli Blog
-email: michele.sorcinelli@gmail.com
+email: michelesr@autistici.org
 description: A blog from a DevOps and Python enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://michelesr.github.io" # the base hostname & protocol for your site
